@@ -1,6 +1,5 @@
 <!-- TOC -->
 * [Part 1. Printf와 칩 정보 얻기](#part-1-printf와-칩-정보-얻기)
-
   * [Hello World](#hello-world)
     * [`printf`](#printf)
     * [`esp_chip_info_t`](#espchipinfot)
@@ -11,11 +10,7 @@
 
 # Part 1. Printf와 칩 정보 얻기
 
-##
-`ESP-IDF` 버전 `5.0`
-
 ## Hello World
-
 
 ### `printf`
 
